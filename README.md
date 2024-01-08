@@ -4,7 +4,8 @@ Discord: a3l6
 
 a3l6:
   - Part of Buildspace s4
-  - Attending Hack the North 2023
+  - Attended Hack the North 2023
+  - Attending DeltaHacks X
 Learning:
   - Svelte
   - Python
