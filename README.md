@@ -6,6 +6,7 @@ a3l6:
   - Part of Buildspace s4
   - Attended Hack the North 2023
   - Attended DeltaHacks X
+  - Attending NSBEHacks 2024
 Learning:
   - Svelte
   - Python
