@@ -5,8 +5,10 @@ Discord: a3l6
 a3l6:
   - Part of Buildspace s4
   - Attended Hack the North 2023
-  - Attended DeltaHacks X
-  - Attending NSBEHacks 2024
+  - Attended DeltaHacks X (Winner of Fidelity DEI Award)
+  - Attended NSBEHacks 2024 (Winner of Best Beginner Hack)
+  - Attending GDSC Hacks 2024
+  - Attending Apocalypse Hacks 2024
 Learning:
   - Svelte
   - Python
