@@ -4,6 +4,7 @@ Discord: a3l6
 
 a3l6:
   - Part of Buildspace s4
+  - Will be part of Buildspace s5
   - Attended Hack the North 2023
   - Attended DeltaHacks X (Winner of Fidelity DEI Award)
   - Attended NSBEHacks 2024 (Winner of Best Beginner Hack)
