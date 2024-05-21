@@ -9,6 +9,7 @@ a3l6:
   - Attended DeltaHacks X (Winner of Fidelity DEI Award)
   - Attended NSBEHacks 2024 (Winner of Best Beginner Hack and top 10 finish)
   - Attending Apocalypse Hacks 2024 (Top 8 finish)
+  - Attending SHAD 2024
 Learning:
   - Svelte
   - Python
