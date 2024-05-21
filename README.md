@@ -7,9 +7,8 @@ a3l6:
   - Will be part of Buildspace s5
   - Attended Hack the North 2023
   - Attended DeltaHacks X (Winner of Fidelity DEI Award)
-  - Attended NSBEHacks 2024 (Winner of Best Beginner Hack)
-  - Attending GDSC Hacks 2024
-  - Attending Apocalypse Hacks 2024
+  - Attended NSBEHacks 2024 (Winner of Best Beginner Hack and top 10 finish)
+  - Attending Apocalypse Hacks 2024 (Top 8 finish)
 Learning:
   - Svelte
   - Python
