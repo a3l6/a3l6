@@ -10,6 +10,7 @@ a3l6:
   - Attended NSBEHacks 2024 (Winner of Best Beginner Hack and top 10 finish)
   - Attended Apocalypse Hacks 2024 (Top 8 finish)
   - Attended SHAD 2024
+  - Logistics Lead for Hack Canada
 Learning:
   - Svelte
   - Python
