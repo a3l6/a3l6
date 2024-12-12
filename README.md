@@ -16,6 +16,9 @@ Learning:
   - Python
   - Typescript
   - C++ (Arduino)
+  - MicroPython
+  - PCB development
+  - Golang
 Interests:
   - Biking
   - Coding
