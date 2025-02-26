@@ -7,7 +7,7 @@ a3l6:
   - Part of Buildspace s5
   - Attended Hack the North 2023
   - Attended DeltaHacks X (Winner of Fidelity DEI Award)
-  - Attended NSBEHacks 2024 (Winner of Best Beginner Hack and top 10 finish)
+  - Attended NSBEHacks 2024 (Winner of Best Beginner Hack, Best use of Cohere and top 10 finish)
   - Attended Apocalypse Hacks 2024 (Top 8 finish)
   - Attended SHAD 2024
   - Logistics Lead for Hack Canada
